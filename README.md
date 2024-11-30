@@ -17,7 +17,7 @@ This project explores the relationship between financial satisfaction and happin
 - **Python Libraries**:
   - `pandas`, `numpy`: For data manipulation and analysis.
   - `matplotlib`, `seaborn`, `plotly`: For data visualization.
-  - `statsmodels`, `scikit-learn`: For statistical analysis and modeling.
+  - `statsmodels`: For statistical analysis and modeling.
   - `geopandas`: For mapping and geospatial analysis.
 
 - **Statistical Models**:
