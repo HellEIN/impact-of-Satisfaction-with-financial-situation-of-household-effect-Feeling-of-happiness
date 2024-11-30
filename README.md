@@ -28,8 +28,8 @@ This project explores the relationship between financial satisfaction and happin
 
 ## **Dataset**
 The dataset contains survey data collected from Moroccan households, including:
-- **Happiness Levels** (`Feeling of happiness (LV_Q46)`): Ranked from *Not at all happy* to *Very happy*.
-- **Financial Satisfaction** (`Satisfaction with financial situation of household (NV_Q50)`): Levels of satisfaction with household financial situations.
+- **Happiness Levels** (`Feeling of happiness`): Ranked from *Not at all happy* to *Very happy*.
+- **Financial Satisfaction** (`Satisfaction with financial situation of household`): Levels of satisfaction with household financial situations.
 
 ---
 
