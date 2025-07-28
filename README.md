@@ -1,3 +1,5 @@
+# 🔴🔴if u want to see the plots  u need to download the html file them open it with you browser thx (github can render the 3d plot nor the interactive ones)
+
 # **Analyzing the Impact of Financial Satisfaction on Happiness**
 
 ## **Overview**
