@@ -11,7 +11,7 @@ This project explores the relationship between financial satisfaction and happin
 1. **Analyze the relationship** between financial satisfaction and happiness.
 2. **Explore regional differences** in the correlation between these variables across Morocco.
 3. **Visualize data** using various Python libraries like Seaborn, Plotly, and GeoPandas.
-4. **Apply statistical models**, including correlation, ordinal regression, and geospatial analysis.
+4. **Apply statistical models**, including correlation, linear regression, and geospatial analysis.
 
 ---
 
@@ -24,7 +24,7 @@ This project explores the relationship between financial satisfaction and happin
 
 - **Statistical Models**:
   - Correlation Analysis
-  - Ordinal Regression
+  - linear Regression
 
 ---
 
@@ -41,7 +41,7 @@ The dataset contains survey data collected from Moroccan households, including:
 2. **Exploratory Data Analysis**:
    - Analyze and visualize the distribution of happiness and financial satisfaction.
 3. **Statistical Modeling**:
-   - Use ordinal regression to quantify the impact of financial satisfaction on happiness.
+   - Use linear regression to quantify the impact of financial satisfaction on happiness.
 4. **Regional Analysis**:
    - Create choropleth maps to highlight regional differences using GeoPandas and Plotly.
 5. **Visualization**:
